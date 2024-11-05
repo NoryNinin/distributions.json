@@ -4,24 +4,24 @@
   "discord": {
     "clientId": "1086936373057040395",
     "smallImageText": "Bruxelles ReBuild",
-    "smallImageKey": "seal-circle"
+        "smallImageKey": "seal-circle"
   },
   "servers": [
     {
       "id": "bruxelles",
-      "name": "[BUILD] | Bruxelles",
-      "description": "Connectez-vous pour explorer la ville de Bruxelles sur Minecraft en immersion totale avec des mods.",
-      "icon": "https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/SealCircle.png?raw=true",
-      "version": "3.9.4",
-      "address": "147.185.221.20:46813",
-      "minecraftVersion": "1.16.5",
-      "discord": {
-        "shortId": "Bruxelles",
-        "largeImageText": "Serveur Bruxelles",
-        "largeImageKey": "bruxelles-server"
-      },
-      "mainServer": true,
-      "autoconnect": true,
+            "name": "[BUILD] | Bruxelles",
+            "description": "Connectez-vous pour explorer la ville de Bruxelles sur Minecraft en imersion totale avec des mods.",
+            "icon": "https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/SealCircle.png?raw=true",
+            "version": "3.9.4",
+            "address": "147.185.221.20:46813",
+            "minecraftVersion": "1.16.5",
+            "discord": {
+                "shortId": "Bruxelles",
+                "largeImageText": "Serveur Bruxelles",
+                "largeImageKey": "bruxelles-server"
+            },
+            "mainServer": true,
+            "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.16.5-36.1.0",
@@ -35,7 +35,7 @@
           },
           "subModules": [
             {
-              "id": "1.16.5-36.1.0",
+              "id": "1.19.4-45.0.9",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
@@ -45,7 +45,7 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.16.5-36.1.0",
+              "id": "net.minecraftforge:fmlcore:1.19.4-45.0.9",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
@@ -57,7 +57,7 @@
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.16.5-36.1.0",
+              "id": "net.minecraftforge:javafmllanguage:1.19.4-45.0.9",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
@@ -115,8 +115,6 @@
                 "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraft/client/1.19.4-20230314.122934/client-1.19.4-20230314.122934-srg.jar"
               }
             }
-          ]
-        }
       ]
     }
   ]
