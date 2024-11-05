@@ -28,8 +28,8 @@
           "name": "Minecraft Forge Server",
           "type": "Forge",
           "artifact": {
-            "size": 891B41A7EAA7B1D8E0059123979AFAFA,
-            "url": "https://github.com/NoryNinin/distributions.json/blob/c8dfb8388e827f381bd46b5103513858b1147a92/forge-1.16.5-36.1.0-universal.jar" // URL pour le serveur Forge
+            "size": 891417E7180059123979C0B2E290DC12,
+            "url": "https://github.com/NoryNinin/distributions.json/blob/c8dfb8388e827f381bd46b5103513858b1147a92/forge-1.16.5-36.1.0-universal.jar"
           },
           "subModules": []
         }
