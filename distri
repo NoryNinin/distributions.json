@@ -24,14 +24,14 @@
             "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.19.4-45.0.9",
+          "id": "net.minecraftforge:lowcodelanguage:1.16.5-36.1.0",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
             "size": 7378,
             "MD5": "567726c42a1312962ffd96af646f227d",
-            "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/lowcodelanguage/1.19.4-45.0.9/lowcodelanguage-1.19.4-45.0.9.jar"
+            "url": "https://github.com/NoryNinin/distributions.json/blob/main/forge-1.16.5-36.1.0-universal.jar"
           },
           "subModules": [
             {
