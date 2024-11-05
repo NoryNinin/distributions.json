@@ -28,9 +28,9 @@
           "name": "Minecraft Forge Server",
           "type": "Forge",
           "artifact": {
-            "size": 37990451,
-            "url": "https://github.com/NoryNinin/BruxellesLauncher/blob/master/.github/minecraft_server.1.16.5.jar",
-            "md5": "C10B74188EFC4ED6960DB49C9ADE50CE"
+            "size": 2401235,
+            "url": "https://raw.githubusercontent.com/NoryNinin/distributions.json/main/forge-1.16.5-36.2.42-installer.jar",
+            "md5": "891B41A7EAA7B1D8E0059123979AFAFA"
           },
           "subModules": []
         }
