@@ -35,7 +35,7 @@
           },
           "subModules": [
             {
-              "id": "1.19.4-45.0.9",
+              "id": "1.16.5-36.1.0",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
@@ -45,7 +45,7 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.19.4-45.0.9",
+              "id": "net.minecraftforge:fmlcore:1.16.5-36.1.0",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
@@ -57,7 +57,7 @@
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.19.4-45.0.9",
+              "id": "net.minecraftforge:javafmllanguage:1.16.5-36.1.0",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
