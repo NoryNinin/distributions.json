@@ -52,7 +52,8 @@
               "artifact": {
                 "size": 113254,
                 "MD5": "087a7175f26ebce8dee27cc75ab706a6",
-                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/fmlcore/1.19.4-45.0.9/fmlcore-1.19.4-45.0.9.jar"
+                "url": "https://files.minecraftforge.net/maven/net/minecraftforge/fmlcore/1.16.5-36.1.0/fmlcore-1.16.5-36.1.0.jar
+"
               },
               "subModules": []
             },
@@ -64,7 +65,8 @@
               "artifact": {
                 "size": 16352,
                 "MD5": "85f5a466356973b9a9199f5a5b1d1a25",
-                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/javafmllanguage/1.19.4-45.0.9/javafmllanguage-1.19.4-45.0.9.jar"
+                "url": "https://files.minecraftforge.net/maven/net/minecraftforge/javafmllanguage/1.16.5-36.1.0/javafmllanguage-1.16.5-36.1.0.jar
+"
               },
               "subModules": []
             },
