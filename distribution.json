@@ -52,8 +52,7 @@
               "artifact": {
                 "size": 113254,
                 "MD5": "087a7175f26ebce8dee27cc75ab706a6",
-                "url": "https://files.minecraftforge.net/maven/net/minecraftforge/fmlcore/1.16.5-36.1.0/fmlcore-1.16.5-36.1.0.jar
-"
+                "url": "https://files.minecraftforge.net/maven/net/minecraftforge/fmlcore/1.16.5-36.1.0/fmlcore-1.16.5-36.1.0.jar"
               },
               "subModules": []
             },
