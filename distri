@@ -8,8 +8,8 @@
   },
   "servers": [
     {
-      "id": "Demo-1.19.4",
-      "name": "Demo (Minecraft 1.19.4)",
+      "id": "Test",
+      "name": "Demo test",
       "description": "Demo Running Minecraft 1.19.4 (Forge v45.0.9)",
       "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/Demo-1.19.4.png",
       "version": "1.0.0",
