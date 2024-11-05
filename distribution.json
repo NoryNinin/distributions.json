@@ -113,8 +113,7 @@
                 "size": 18578667,
                 "MD5": "500a7127781d84a24d65f110479538f3",
                 "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraft/client/1.19.4-20230314.122934/client-1.19.4-20230314.122934-srg.jar"
-              },
-              "subModules": []
+              }
             }
           ]
         }
