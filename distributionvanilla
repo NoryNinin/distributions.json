@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
+  "discord": {
+    "clientId": "1086936373057040395",
+    "smallImageText": "Bruxelles ReBuild",
+    "smallImageKey": "seal-circle"
+  },
+  "servers": [
+    {
+      "id": "bruxelles",
+      "name": "[BUILD] | Bruxelles",
+      "description": "Connectez-vous pour explorer la ville de Bruxelles sur Minecraft en immersion totale.",
+      "icon": "https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/SealCircle.png?raw=true",
+      "version": "3.9.4",
+      "address": "147.185.221.20:46813",
+      "minecraftVersion": "1.16.5",
+      "discord": {
+        "shortId": "Bruxelles",
+        "largeImageText": "Serveur Bruxelles",
+        "largeImageKey": "bruxelles-server"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.minecraft:server:1.16.5",
+          "name": "Minecraft Server",
+          "type": "Vanilla",
+          "artifact": {
+            "size": 58604717,
+            "url": "https://launcher.mojang.com/v1/objects/1f0e1c80c3eb60c3f2e2bfc61c7f76b12c63f35b/server.jar"
+          },
+          "subModules": []
+        }
+      ]
+    }
+  ]
+}
