@@ -25,7 +25,7 @@
         "largeImageKey": "bruxelles-server"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:server:1.16.5",
