@@ -32,7 +32,8 @@
             "size": 7378,
             "MD5": "567726c42a1312962ffd96af646f227d",
             "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/lowcodelanguage/1.19.4-45.0.9/lowcodelanguage-1.19.4-45.0.9.jar"
-          },
+          }
+        },
         {
           "id": "net.minecraftforge:forge:1.19.4-45.0.9:universal",
           "name": "Minecraft Forge (universal jar)",
