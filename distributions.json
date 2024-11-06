@@ -23,7 +23,6 @@
       "mainServer": true,
       "autoconnect": false,
       "modules": [
-        },
         {
           "id": "net.minecraftforge:forge:1.19.4-45.0.9:universal",
           "name": "Minecraft Forge (universal jar)",
