@@ -21,7 +21,7 @@
         "largeImageText": "forge-vanilla"
       },
       "mainServer": true,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.19.4-45.0.9:universal",
