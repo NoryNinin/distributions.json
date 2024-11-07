@@ -5,14 +5,14 @@
 <item>
 <title>Bienvenue sur Bruxelles!</title>
 <content:encoded>
-<![CDATA[ <p>If you're watching this, you're using the demo distribution file.</p> <p>This file is not meant to be used in production environment. You can generate it using <a href="https://github.com/dscalzi/nebula">Nebula</a></p> ]]>
+<![CDATA[ <p>Launcher Minecraft fait pour rejoindre le serveur.</p> <p>Ce launcher peut rejoindre uniquement notre serveur [BUILD] Bruxelles.</p> ]]>
 </content:encoded>
 <dc:creator>Nory_Ninin</dc:creator>
-<pubDate>11 March 2023 03:49:01</pubDate>
+<pubDate>07 Novembre 2024 10:19:00</pubDate>
 <slash:comments>2023</slash:comments>
 </item>
 <item>
-<title>Yes, news module supports multiple articles!</title>
+<title>Le serveur est en cours de création actuellement..</title>
 <content:encoded>
 <![CDATA[ <p>This will allow you to link your blog rss function to Helios Launcher</p> <ul> <li>HTML is supported too</li> </ul> ]]>
 </content:encoded>
