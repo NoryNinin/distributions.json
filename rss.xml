@@ -19,20 +19,5 @@
 <dc:creator>Nory_Ninin</dc:creator>
 <pubDate>07 Novembre 2024 10:19:00</pubDate>
 </item>
-<item>
-    <title>Bienvenue sur Bruxelles!</title>
-    <content:encoded>
-        <![CDATA[
-            <p>Preview.</p>
-            <p>preview de [BUILD] Bruxelles.</p>
-            <a href="https://github.com/NoryNinin/BruxellesLauncher">Bruxelles</a>
-            <img src="https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/backgrounds/0.jpg?raw=true"/>
-        ]]>
-    </content:encoded>
-    <dc:creator>Nory_Ninin</dc:creator>
-    <pubDate>07 Novembre 2024 10:19:00</pubDate>
-    <slash:comments>2023</slash:comments>
-</item>
-
 </channel>
 </rss>
