@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
 <channel>
 <title>[BUILD] Bruxelles</title>
-<link>https://github.com/dscalzi/helioslauncher</link>
+<link>https://github.com/NoryNinin/BruxellesLauncher>Bruxelles</link>
 <item>
 <title>Bienvenue sur Bruxelles!</title>
 <content:encoded>
@@ -19,5 +19,20 @@
 <dc:creator>Nory_Ninin</dc:creator>
 <pubDate>07 Novembre 2024 10:19:00</pubDate>
 </item>
+<item>
+    <title>Bienvenue sur Bruxelles!</title>
+    <content:encoded>
+        <![CDATA[
+            <p>Preview.</p>
+            <p>preview de [BUILD] Bruxelles.</p>
+            <a href="https://github.com/NoryNinin/BruxellesLauncher">Bruxelles</a>
+            <img src="https://github.com/NoryNinin/BruxellesLauncher/blob/master/app/assets/images/backgrounds/0.jpg?raw=true"/>
+        ]]>
+    </content:encoded>
+    <dc:creator>Nory_Ninin</dc:creator>
+    <pubDate>07 Novembre 2024 10:19:00</pubDate>
+    <slash:comments>2023</slash:comments>
+</item>
+
 </channel>
 </rss>
