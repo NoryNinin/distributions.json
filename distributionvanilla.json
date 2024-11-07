@@ -1,6 +1,5 @@
 {
   "version": "1.0.0",
-  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
   "discord": {
     "clientId": "1086936373057040395",
     "smallImageText": "Bruxelles ReBuild",
@@ -24,16 +23,34 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraft:server:1.16.5",
-          "name": "Minecraft Server",
-          "type": "Vanilla",
-          "artifact": {
-            "size": 58604717,
-            "url": "https://launcher.mojang.com/v1/objects/9b0bc7e4e6be16e7e8a2cb98bb6a79f3f6733d47/server.jar"
-          },
-          "subModules": []
+          "name": "assets",
+          "url": "https://example.com/path/to/assets.zip",
+          "hash": "md5-hash-of-assets-zip"
+        },
+        {
+          "name": "jre",
+          "type": "runtime",
+          "version": "Java 8",
+          "url": "https://example.com/path/to/java-runtime.zip",
+          "hash": "md5-hash-of-jre-zip"
+        },
+        {
+          "name": "natives",
+          "url": "https://example.com/path/to/natives.zip",
+          "hash": "md5-hash-of-natives-zip"
         }
       ]
     }
-  ]
+  ],
+  "mainServer": "bruxelles",
+  "assets": {
+    "version": "1.0.0",
+    "url": "https://example.com/path/to/assets.zip",
+    "hash": "md5-hash-of-assets-zip"
+  },
+  "java": {
+    "version": "1.8.0",
+    "url": "https://example.com/path/to/java-runtime.zip",
+    "hash": "md5-hash-of-jre-zip"
+  }
 }
