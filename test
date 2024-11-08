@@ -5,7 +5,10 @@
     "clientId": "1304146977327681567",
     "smallImageText": "Bruxelles ReBuild",
     "smallImageKey": "seal-circle"
-  },
+   },
+  "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
   "servers": [
     {
       "id": "bruxelles",
