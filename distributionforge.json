@@ -1,15 +1,14 @@
 {
   "version": "1.0.0",
-  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
+  "rss": "https://raw.githubusercontent.com/NoryNinin/distributions.json/refs/heads/main/rss.xml",
   "discord": {
-    "clientId": "1086936373057040395",
+    "clientId": "1304146977327681567",
     "smallImageText": "Bruxelles ReBuild",
     "smallImageKey": "seal-circle"
-  },
+   },
   "java": {
-        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
-    },
-    "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
+    "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+  },
   "servers": [
     {
       "id": "bruxelles",
@@ -28,29 +27,41 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:server:1.16.5",
-          "name": "Minecraft Forge Server",
-          "type": "Forge",
+          "id": "net.minecraftforge:lowcodelanguage:1.19.4-45.0.9",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
           "artifact": {
-            "size": 7543237,
-            "url": "https://github.com/NoryNinin/download/releases/download/server1.16.5/serveur.jar?=raw",
-            "md5": "891B41A7EAA7B1D8E0059123979AFAFA"
+            "size": 7378,
+            "MD5": "567726c42a1312962ffd96af646f227d",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/lowcodelanguage/1.19.4-45.0.9/lowcodelanguage-1.19.4-45.0.9.jar"
           },
-          "subModules": []
+          "subModules": [
+            {
+              "id": "1.19.4-45.0.9",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 15497,
+                "MD5": "97924bf1d3bf6f2bc4acc5662a7fecc0",
+                "url": "https://helios-files.geekcorner.eu.org/repo/versions/1.19.4-forge-45.0.9/1.19.4-forge-45.0.9.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.19.4-45.0.9",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 113254,
+                "MD5": "087a7175f26ebce8dee27cc75ab706a6",
+                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/fmlcore/1.19.4-45.0.9/fmlcore-1.19.4-45.0.9.jar"
+              },
+              "subModules": []
+            },
+          ]
         }
       ]
-    }
-  ],
-  "assets": [
-    {
-      "id": "modloader",
-      "name": "Forge Mod Loader",
-      "type": "ModLoader",
-      "artifact": {
-        "url": "https://github.com/NoryNinin/download/releases/download/forge/forge-1.16.5-36.2.42.jar?=raw",
-        "md5": "8ff0086ade0cf0f1d513e72edd04348c",
-        "size": 2546235
-      }
     }
   ]
 }
