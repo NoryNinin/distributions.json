@@ -33,7 +33,7 @@
           "type": "Forge",
           "artifact": {
             "size": 7543237,
-            "url": "https://raw.githubusercontent.com/NoryNinin/distributions.json/main/forge-1.16.5-36.2.42-installer.jar",
+            "url": "https://github.com/NoryNinin/download/releases/download/server1.16.5/serveur.jar?=raw",
             "md5": "891B41A7EAA7B1D8E0059123979AFAFA"
           },
           "subModules": []
@@ -47,7 +47,7 @@
       "name": "Forge Mod Loader",
       "type": "ModLoader",
       "artifact": {
-        "url": "https://raw.githubusercontent.com/NoryNinin/distributions.json/main/forge-1.16.5-36.2.42.jar",
+        "url": "https://github.com/NoryNinin/download/releases/download/forge/forge-1.16.5-36.2.42.jar?=raw",
         "md5": "8ff0086ade0cf0f1d513e72edd04348c",
         "size": 2546235
       }
